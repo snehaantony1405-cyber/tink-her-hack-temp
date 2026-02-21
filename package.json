@@ -1,0 +1,37 @@
+{
+  "name": "safewalk",
+  "version": "1.0.0",
+  "description": "A web application that provides instant help during emergency situations.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "build": "webpack --mode production",
+    "dev": "webpack serve --mode development"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0",
+    "twilio": "^3.60.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0",
+    "webpack-dev-server": "^3.11.0",
+    "babel-loader": "^8.1.0",
+    "babel-core": "^7.0.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "keywords": [
+    "emergency",
+    "help",
+    "SOS",
+    "safety"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://yourusername.github.io/safewalk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/safewalk.git"
+  }
+}
