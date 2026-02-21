@@ -33,7 +33,8 @@ Your site will be live at:
 ```
 https://YOUR_USERNAME.github.io/safewalk/
 ```
-
+VIDEO URL:
+https://www.loom.com/share/74253f61d499494798156b5bb403d8e7
 ---
 
 ## 📁 Project Structure
